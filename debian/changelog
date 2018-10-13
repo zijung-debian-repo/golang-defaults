@@ -1,0 +1,5 @@
+golang-defaults (2:1.11~1) unstable; urgency=medium
+
+  * Initial Release.
+
+ -- Zijung Chueh <i@zijung.me>  Sat, 13 Oct 2018 20:00:46 +0800
